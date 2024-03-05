@@ -1,5 +1,28 @@
 {
-  "reservation": [],
+  "reservation": [
+
+{
+  "GuestName": "John Doe",
+  "Date": "2024-03-05",
+  "Time": "14:30",
+  "Persons": 2
+},{
+  "GuestName": "Jane Smith",
+  "Date": "2024-03-06",
+  "Time": "12:00",
+  "Persons": 4
+},{
+  "GuestName": "Alice Johnson",
+  "Date": "2024-03-07",
+  "Time": "19:00",
+  "Persons": 6
+}
+
+
+
+
+    
+  ],
   "contact": [
     {
       "id": "1",
